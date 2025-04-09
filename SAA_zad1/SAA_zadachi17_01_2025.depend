@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1737121375 source:d:\saa_zadachi\saa_zadachi17_01_2025\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1737121621 source:d:\saa_zadachi\saa_zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+
